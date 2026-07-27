@@ -15,6 +15,16 @@ This project follows a complete Data Analytics workflow:
 - SQL Business Analysis
 - Interactive Power BI Dashboard
 
+#  Dashboard Preview
+Executive Dashboard
+<img width="1400" height="778" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/08eab08e-2fab-47df-8f30-4814cec95c7e" />
+
+Restaurant Analysis
+<img width="1385" height="776" alt="Restaurant Analysis" src="https://github.com/user-attachments/assets/23fc7f89-d1aa-4d54-aee0-44d17c306215" />
+
+Platform Analysis
+<img width="1376" height="780" alt="Platform Analysis" src="https://github.com/user-attachments/assets/a494a0c5-292b-40a4-a31c-a9bda014864d" />
+
 
  # Tech Stack
 
